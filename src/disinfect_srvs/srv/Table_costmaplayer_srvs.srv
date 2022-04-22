@@ -1,0 +1,8 @@
+string request_type
+disinfect_msg/Table_CostMapLayer request_Table_CostMapLayer
+---
+string result
+int32  result_flg
+int32  result_count
+int32  result_maximunId
+disinfect_msg/Table_CostMapLayer[] result_Table_CostMapLayerS

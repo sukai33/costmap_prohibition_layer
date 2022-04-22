@@ -1,0 +1,22 @@
+string request_type
+int32  request_numRoom
+int32  request_status
+int32  request_ioNum
+int32  request_quantum
+string request_area
+string request_markerName
+disinfect_msg/testInfo request_testInfo
+disinfect_msg/Dictionaries request_Dictionarie
+disinfect_msg/TaskPOSE request_TaskPOSE
+disinfect_msg/Table_Task request_Table_Task
+disinfect_msg/Table_CostMapLayer request_Table_CostMapLayer
+---
+string result
+int32  result_flg
+int32  result_count
+int32  result_maximunId
+disinfect_msg/testInfo[] result_testInfos
+disinfect_msg/Dictionaries[] result_Dictionaries
+disinfect_msg/TaskPOSE[] result_TaskPOSES
+disinfect_msg/Table_Task[] result_Table_Tasks
+disinfect_msg/Table_CostMapLayer[] result_Table_CostMapLayers

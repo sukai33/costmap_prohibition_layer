@@ -1,0 +1,9 @@
+int32 Id
+string RobotNumber
+string Equipment_1
+string Equipment_2
+string TargetName
+string StartTime
+string EndTime
+string Status
+string WorkingStatus

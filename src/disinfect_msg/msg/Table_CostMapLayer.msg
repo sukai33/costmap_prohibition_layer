@@ -1,0 +1,16 @@
+int32 Id
+string FigureType
+string FigureName
+string MerchantNumber
+string MerchantName
+string RobotNumber
+string MapName
+string Robotfloor
+string POINT_A_X
+string POINT_A_Y
+string POINT_B_X
+string POINT_B_Y
+string POINT_C_X
+string POINT_C_Y
+string POINT_D_X
+string POINT_D_Y
