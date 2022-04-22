@@ -87,7 +87,7 @@ SlamtecKSDemoDlgCostMap::SlamtecKSDemoDlgCostMap(QString databaseName, QString d
     UiInit();
     /*************对话框窗体初始化***************/
     setFixedSize(1100, 500);
-    setWindowTitle(QStringLiteral("执行任务管理"));
+    setWindowTitle(QStringLiteral("虚拟墙管理"));
 }
 /**************************************************************************
 * 函数名称：UiInit
